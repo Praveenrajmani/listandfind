@@ -1,6 +1,6 @@
 ### Help
 
-listandfind -h
+```
 Usage of ./listandfind:
   -access-key string
     	S3 Access Key
@@ -18,6 +18,7 @@ Usage of ./listandfind:
     	S3 Secret Key
   -skiperror
     	Skip other errors
+```
 
 ### Example :-
 
