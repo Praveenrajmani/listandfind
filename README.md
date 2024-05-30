@@ -23,5 +23,5 @@ Usage of ./listandfind:
 ### Example :-
 
 ```sh
-> listandfind --access-key minioadmin --secret-key minioadmin --bucket test --endpoint http://localhost:9000
+> ./listandfind --access-key minioadmin --secret-key minioadmin --bucket test --endpoint http://localhost:9000 --recursive
 ```
